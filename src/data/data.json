@@ -1,0 +1,38 @@
+{
+    "profile":[
+        {
+            "name":"Rohith",
+            "role":"student",
+            "email":"rohithkjcjasc@gmail.com",
+            "education":[
+                {
+                    "sname":"vvk school",
+                    "percentage":62,
+                    "yop":2017
+                },
+                {
+                    "sname":"vvk school",
+                    "percentage":62,
+                    "yop":2017
+                },
+                {
+                    "sname":"vvk school",
+                    "percentage":62,
+                    "yop":2017
+                }
+            ]
+        
+        
+        },
+        {
+            "name":"Chan",
+            "role":"trainer",
+            "email":"chankjcjasc@gmail.com"
+        },
+        {
+            "name":"Trinadh",
+            "role":"master",
+            "email":"trinadhkjcjasc@gmail.com"
+        }
+    ]
+}
